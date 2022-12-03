@@ -1,0 +1,9 @@
+.img-header{background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+    background-blend-mode: soft-light;}
+    
+.fondo{
+    background: rgb(23,29,195);
+background: linear-gradient(90deg, rgba(23,29,195,1) 0%, rgba(99,217,77,1) 50%, rgba(16,0,255,1) 100%);
